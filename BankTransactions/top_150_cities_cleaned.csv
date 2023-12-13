@@ -1,0 +1,151 @@
+city,lat,lng,country,state_name,population
+delhi,28.61,77.23,India,delhi,32226000
+mumbai,19.0761,72.8775,India,maharashtra,24973000
+kolkata,22.5675,88.37,India,west bengal,18502000
+bangalore,12.9789,77.5917,India,karnataka,15386000
+chennai,13.0825,80.275,India,tamil nadu,12395000
+hyderabad,17.385,78.4867,India,telangana,10494000
+pune,18.5203,73.8567,India,maharashtra,8231000
+ahmedabad,23.03,72.58,India,gujarat,8009000
+surat,21.1702,72.8311,India,gujarat,6538000
+prayagraj,25.4358,81.8464,India,uttar pradesh,5954391
+lucknow,26.85,80.95,India,uttar pradesh,3382000
+jaipur,26.9,75.8,India,rajasthan,3073350
+cawnpore,26.4499,80.3319,India,uttar pradesh,2701324
+mirzapur,25.146,82.569,India,uttar pradesh,2496970
+nagpur,21.1497,79.0806,India,maharashtra,2405665
+ghaziabad,28.67,77.42,India,uttar pradesh,2375820
+vadodara,22.3,73.2,India,gujarat,2065771
+vishakhapatnam,17.7042,83.2978,India,andhra pradesh,2035922
+indore,22.7167,75.8472,India,madhya pradesh,1994397
+thane,19.1972,72.9722,India,maharashtra,1886941
+bhopal,23.25,77.4167,India,madhya pradesh,1798218
+chinchvad,18.6186,73.8037,India,maharashtra,1729320
+patna,25.6,85.1,India,bihar,1684222
+bilaspur,22.09,82.15,India,chhattisgarh,1625502
+ludhiana,30.91,75.85,India,punjab,1618879
+agwar,27.18,78.02,India,uttar pradesh,1585705
+agra,27.18,78.02,India,uttar pradesh,1585704
+madurai,9.9252,78.1198,India,tamil nadu,1561129
+jamshedpur,22.7925,86.1842,India,jharkhand,1558000
+nasik,20.0,73.78,India,maharashtra,1486053
+faridabad,28.4167,77.3,India,haryana,1404653
+aurangabad,19.88,75.32,India,maharashtra,1371330
+rajkot,22.3,70.7833,India,gujarat,1335397
+meerut,28.98,77.71,India,uttar pradesh,1305429
+jabalpur,23.1667,79.9333,India,madhya pradesh,1267564
+kalamboli,19.2333,73.1333,India,maharashtra,1246381
+vasai,19.47,72.8,India,maharashtra,1222390
+najafgarh,28.6092,76.9798,India,delhi,1203180
+varanasi,25.3189,83.0128,India,uttar pradesh,1198491
+srinagar,34.09,74.79,India,jammu and kashmir,1180570
+dhanbad,23.7998,86.4305,India,jharkhand,1162472
+amritsar,31.64,74.86,India,punjab,1132383
+aligarh,27.88,78.08,India,uttar pradesh,1131160
+guwahati,26.1722,91.7458,India,assam,1116267
+haora,22.58,88.3294,India,west bengal,1077075
+ranchi,23.36,85.33,India,jharkhand,1073440
+gwalior,26.2215,78.178,India,madhya pradesh,1069276
+chandigarh,30.75,76.78,India,chandigarh,1055450
+vijayavada,16.5193,80.6305,India,andhra pradesh,1048240
+jodhpur,26.28,73.02,India,rajasthan,1033918
+raipur,21.25,81.63,India,chhattisgarh,1010087
+kota,25.18,75.83,India,rajasthan,1001694
+kalkaji devi,28.5485,77.2513,India,delhi,824177
+bhayandar,19.29,72.85,India,maharashtra,809378
+ambattur,13.1143,80.1548,India,tamil nadu,466205
+salt lake city,22.61,88.4,India,west bengal,403316
+bhatpara,22.87,88.41,India,west bengal,386019
+kukatpalli,17.4849,78.4138,India,andhra pradesh,385821
+darbhanga,26.17,85.9,India,bihar,380125
+dasarhalli,13.0465,77.513,India,karnataka,349720
+muzaffarpur,26.1225,85.3906,India,bihar,333200
+oulgaret,11.957,79.7737,India,puducherry,300104
+new delhi,28.6139,77.209,India,delhi,249998
+tiruvottiyur,13.16,80.3,India,tamil nadu,249446
+puducherry,11.9167,79.8167,India,puducherry,244377
+byatarayanpur,13.0659,77.5922,India,karnataka,239902
+pallavaram,12.9675,80.1491,India,tamil nadu,215417
+secunderabad,17.4399,78.4983,India,andhra pradesh,213698
+shimla,31.1033,77.1722,India,himachal pradesh,206575
+puri,19.8106,85.8314,India,odisha,201026
+shrirampur,22.75,88.34,India,west bengal,181842
+hugli,22.9089,88.3967,India,west bengal,179931
+chandannagar,22.8671,88.3674,India,west bengal,166867
+sultanpur mazra,28.6981,77.0689,India,delhi,163716
+krishnanagar,23.4,88.5,India,west bengal,153062
+barakpur,22.7642,88.3776,India,west bengal,152783
+bhalswa jahangirpur,28.7354,77.1638,India,delhi,151427
+nangloi jat,28.6833,77.0667,India,delhi,150371
+yelahanka,13.1007,77.5963,India,karnataka,119891
+titagarh,22.74,88.37,India,west bengal,116541
+dam dam,22.62,88.42,India,west bengal,114786
+bansbaria,22.97,88.4,India,west bengal,103920
+madhavaram,13.1482,80.2314,India,tamil nadu,100442
+baj baj,22.4828,88.1818,India,west bengal,76837
+nerkunram,13.0667,80.2833,India,tamil nadu,52570
+kendraparha,20.5,86.42,India,odisha,41404
+sijua,23.7692,86.1673,India,jharkhand,39372
+manali,13.1667,80.2667,India,tamil nadu,37748
+chakapara,22.63,88.35,India,west bengal,35282
+pappakurichchi,10.8137,78.7481,India,tamil nadu,26889
+herohalli,12.9911,77.4873,India,karnataka,23851
+madipakkam,12.9623,80.1986,India,tamil nadu,20523
+sabalpur,25.6053,85.1835,India,bihar,18810
+salua,22.61,88.27,India,west bengal,15171
+balasore,21.4942,86.9317,India,odisha,13869
+jalhalli,13.0333,77.55,India,karnataka,13063
+chinnasekkadu,13.1609,80.2573,India,tamil nadu,12854
+jethuli,25.5378,85.2841,India,bihar,11572
+nagtala,22.3693,88.6071,India,west bengal,10419
+bagalur,13.1328,77.6685,India,karnataka,9925
+pakri,25.5876,85.158,India,bihar,9768
+hunasamaranhalli,13.1435,77.62,India,karnataka,9741
+hesarghatta,13.1391,77.4783,India,karnataka,9485
+bommayapalaiyam,11.9922,79.8499,India,tamil nadu,8796
+gundur,10.7339,78.7184,India,tamil nadu,8587
+punadih,25.5484,85.2649,India,bihar,8273
+hariladih,23.63,86.35,India,jharkhand,7917
+alawalpur,25.4958,85.2021,India,bihar,7827
+madnaikanhalli,13.0626,77.4642,India,karnataka,7805
+kadiganahalli,13.1687,77.6283,India,karnataka,7225
+mahuli,25.543,85.2268,India,bihar,6683
+zeyadah kot,22.321,88.2457,India,west bengal,6457
+arshakunti,13.0785,77.4225,India,karnataka,6262
+hirapur,23.6834,87.1973,India,west bengal,5910
+mirchi,25.5554,85.2139,India,bihar,5710
+sonudih,25.1155,87.0214,India,bihar,5658
+sondekoppa,13.0,77.3667,India,karnataka,4866
+babura,25.0851,87.1092,India,bihar,4755
+madavar,13.0525,77.4732,India,karnataka,4678
+kadabgeri,12.9965,77.4331,India,karnataka,4573
+nanmangalam,12.9381,80.1753,India,tamil nadu,4386
+taliganja,22.5876,88.4439,India,west bengal,4278
+tarchha,25.1116,87.0964,India,bihar,4198
+belgharia,22.5692,88.4846,India,west bengal,4193
+kammanhalli,13.0155,77.6381,India,karnataka,4144
+sonnappanhalli,13.1557,77.6179,India,karnataka,3996
+kedihati,22.6543,88.5304,India,west bengal,3910
+doddajivanhalli,13.0086,77.6143,India,karnataka,3792
+simli murarpur,25.5792,85.2401,India,bihar,3739
+sonawan,25.5445,85.2387,India,bihar,3682
+devanandapur,22.9378,88.3698,India,west bengal,3449
+tribeni,23.0269,88.4565,India,west bengal,3305
+huttanhalli,13.1651,77.6512,India,karnataka,3240
+nathupur,25.5163,85.2544,India,bihar,3129
+bali,25.481,85.2227,India,bihar,3128
+vajarhalli,13.1022,77.4111,India,karnataka,3009
+saino,25.1134,87.0108,India,bihar,2987
+shekhpura,25.5725,85.1428,India,bihar,2950
+cachohalli,13.001,77.4717,India,karnataka,2946
+narayanpur kola,25.1293,87.0076,India,bihar,2919
+gyan chak,25.5496,85.2423,India,bihar,2855
+kasgatpur,13.1101,77.5045,India,karnataka,2852
+kitanelli,13.0095,77.4191,India,karnataka,2827
+harchandi,25.1,87.0442,India,bihar,2827
+santoshpur,22.465,88.2193,India,west bengal,2808
+bendravadi,12.3636,76.9137,India,karnataka,2684
+kodagihalli,12.9771,77.4651,India,karnataka,2585
+harna buzurg,25.0981,87.0148,India,bihar,2579
+mailanhalli,13.1863,77.6963,India,karnataka,2543
+sultanpur,25.5248,85.2507,India,bihar,2473
