@@ -32,9 +32,9 @@ This repository contains two main folders: `BankTransactions` and `UsedCarAuctio
 
 ### Contents:
 - `car_prices.csv`: Dataset file containing used car auction prices.
-- `EDA.ipynb`: Jupyter Notebook file focusing on Exploratory Data Analysis and data cleaning.
-- `Modelling.ipynb`: Jupyter Notebook file concentrating on model training and evaluation.
-- `feather_dataset`: Dataset connecting EDA and modelling stages.
+- `EDA_UsedCarAuctionPrices.ipynb`: Jupyter Notebook file focusing on Exploratory Data Analysis and data cleaning.
+- `Modelling_UsedCarAuctionPrices.ipynb`: Jupyter Notebook file concentrating on model training and evaluation.
+- `processed_data.feather`: Dataset connecting EDA and modelling stages.
 
 ### Tasks Accomplished:
 1. **Exploratory Data Analysis and Data Cleaning**:
