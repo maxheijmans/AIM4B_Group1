@@ -7,7 +7,7 @@ This repository contains two main folders: `BankTransactions` and `UsedCarAuctio
 
 ### Contents:
 - `bank_transaction.csv`: Dataset file containing banking transaction information.
-- `EDA_Clustering.ipynb`: Jupyter Notebook file with Exploratory Data Analysis (EDA) and clustering processes.
+- `EDA+Clustering_BankTransactions.ipynb`: Jupyter Notebook file with Exploratory Data Analysis (EDA) and clustering processes.
 
 ### Tasks Accomplished:
 1. **Exploratory Data Analysis and Data Cleaning**:
